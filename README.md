@@ -1,12 +1,54 @@
-# Hello there!
+<h1>
+  Hello, stranger!
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
+</h1>
 
-## My name is Kirill Zhosul (Russia).
-#### Working in the game development for about 5 years with Game Maker. Also know Python good (About 1 Year)
+<div id="about">
+  <h3>
+    Hello! Welcome to my GitHub profile! My name is Kirill i'm currently working as Game Developer
+    <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20"/>
+    for about 5 years! Currently living in: 
+    <img src="https://image.flaticon.com/icons/png/512/197/197408.png" width="13">
+    Russia
+    <br>
+    
 
-# My last project:
-![Old Tunnel](oldtunnel.gif)
+  </h3>
+</div>
 
-### Contact me:
-#### [VKontakte](https://vk.com/kirillzhosul)
-#### [Email](kodengprivate@gmail.com)
-#### [Telegram](https://t.me/kirillzhosul)
+<div id="buttons_lines">
+  <h3>
+    Some information:
+  </h3>
+  <div id="buttons_line_1">
+    <img src="https://img.shields.io/badge/Intersted%20in:-inactive">
+    <img src="https://img.shields.io/badge/System%20Administrating-red?logo=linux">
+    <img src="https://img.shields.io/badge/Electronics-red?logo=arduino">
+    <img src="https://img.shields.io/badge/Programming-red?logo=python">
+  </div>
+  <div id="buttons_line_1">
+    <img src="https://img.shields.io/badge/Other:-inactive">
+    <img src="https://img.shields.io/badge/OS-Windows 10-blue?logo=windows">
+    <img src="https://gpvc.arturio.dev/kirillzhosul">
+  </div>
+  <div id="buttons_line_2">
+    <img src="https://img.shields.io/badge/Stack:-inactive">
+    <img src="https://img.shields.io/badge/GML-5%20Years-green?">
+    <img src="https://img.shields.io/badge/Python-1%20Year-orange?logo=python">
+  </div>
+  <div id="buttons_line_3">
+     <img src="https://img.shields.io/badge/Contacts-inactive">
+     <a href=https://vk.com/kirillzhosul><img src="https://img.shields.io/badge/VKontakte-blue?logo=vk"></a>
+     <a href=https://t.me/kirillzhosullm><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram"></a>
+     <a href=mailto:kodengprivate@gmail.com><img src="https://img.shields.io/badge/Mail-blue?logo=gmail"></a>
+  </div>
+</div>
+
+<div id="previews">
+  <h1>
+    Projects:
+  </h1>
+  
+  ![Old Tunnel](oldtunnel.gif)
+  
+</div>
