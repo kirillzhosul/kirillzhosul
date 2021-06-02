@@ -49,6 +49,7 @@
     Projects:
   </h1>
   
-  ![Old Tunnel](oldtunnel.gif)
-  
+  <a href=https://github.com/kirillzhosul/gamemaker-oldtunnel><img src="oldtunnel.gif"></a>
+  <a href=https://github.com/kirillzhosul/gamemaker-dear-diary><img align="left" src="deardiary.jpg"></a>
+  <a href=https://github.com/kirillzhosul/gamemaker-beach-anime-day><img align="left" src="beachanimeday.jpg"></a> 
 </div>
