@@ -39,7 +39,7 @@
   <div id="buttons_line_3">
      <img src="https://img.shields.io/badge/Contacts-inactive">
      <a href=https://vk.com/kirillzhosul><img src="https://img.shields.io/badge/VKontakte-blue?logo=vk"></a>
-     <a href=https://t.me/kirillzhosullm><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram"></a>
+     <a href=https://t.me/kirillzhosull><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram"></a>
      <a href=mailto:kodengprivate@gmail.com><img src="https://img.shields.io/badge/Mail-blue?logo=gmail"></a>
   </div>
 </div>
