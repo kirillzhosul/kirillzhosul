@@ -29,7 +29,6 @@
   <div id="buttons_line_1">
     <img src="https://img.shields.io/badge/Other:-inactive">
     <img src="https://img.shields.io/badge/OS-Windows 10-blue?logo=windows">
-    <img src="https://gpvc.arturio.dev/kirillzhosul">
   </div>
   <div id="buttons_line_2">
     <img src="https://img.shields.io/badge/Stack:-inactive">
