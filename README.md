@@ -5,26 +5,25 @@
 
 <div id="about">
   <h3>
-    Hello! Welcome to my GitHub profile! My name is Kirill i'm currently working as Game Developer
+    Hello! Welcome to my GitHub profile! My name is Kirill and i'm currently working as Game Developer
     <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20"/>
-    for about 5 years! Currently living in: 
+    for about 5 years! Currently living in 
     <img src="https://image.flaticon.com/icons/png/512/197/197408.png" width="13">
-    Russia
+    Russia.
     <br>
-    
-
   </h3>
 </div>
 
 <div id="buttons_lines">
   <h3>
-    Some information:
+    Some useful information:
   </h3>
   <div id="buttons_line_1">
     <img src="https://img.shields.io/badge/Intersted%20in:-inactive">
     <img src="https://img.shields.io/badge/System%20Administrating-red?logo=linux">
     <img src="https://img.shields.io/badge/Electronics-red?logo=arduino">
     <img src="https://img.shields.io/badge/Programming-red?logo=python">
+    <img src="https://img.shields.io/badge/Game Development-red?logo=gamejolt">
   </div>
   <div id="buttons_line_1">
     <img src="https://img.shields.io/badge/Other:-inactive">
@@ -41,14 +40,18 @@
      <a href=https://t.me/kirillzhosull><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram"></a>
      <a href=mailto:kodengprivate@gmail.com><img src="https://img.shields.io/badge/Mail-blue?logo=gmail"></a>
   </div>
+  
+  ![Kirill Zhosul GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillzhosul&count_private=true&theme=kacho_ga)
+  
 </div>
 
+
+
 <div id="previews">
-  <h1>
-    Projects:
-  </h1>
+  <h1> Projects:</h1>
   
-  <a href=https://github.com/kirillzhosul/gamemaker-oldtunnel><img src="oldtunnel.gif"></a>
-  <a href=https://github.com/kirillzhosul/gamemaker-dear-diary><img align="left" src="deardiary.jpg"></a>
-  <a href=https://github.com/kirillzhosul/gamemaker-beach-anime-day><img align="left" src="beachanimeday.jpg"></a> 
+  <h2> Games: </h2>
+  <a href=https://github.com/kirillzhosul/gamemaker-oldtunnel><img src="oldtunnel.gif" width=91%></a>
+  <a href=https://github.com/kirillzhosul/gamemaker-dear-diary><img src="deardiary.jpg" width=45%></a>
+  <a href=https://github.com/kirillzhosul/gamemaker-beach-anime-day><img src="beachanimeday.jpg" width=45%></a> 
 </div>
