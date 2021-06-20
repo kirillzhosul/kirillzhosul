@@ -54,4 +54,7 @@
   <a href=https://github.com/kirillzhosul/gamemaker-oldtunnel><img src="oldtunnel.gif" width=91%></a>
   <a href=https://github.com/kirillzhosul/gamemaker-dear-diary><img src="deardiary.jpg" width=45%></a>
   <a href=https://github.com/kirillzhosul/gamemaker-beach-anime-day><img src="beachanimeday.jpg" width=45%></a> 
+  <h2> Other: </h2>
+  <a href=https://github.com/kirillzhosul/gamemaker-world-generation><img src="generation.gif" width=27%></a>
+  <a href=https://github.com/kirillzhosul/gamemaker-sorting-visualization><img src="sortings.gif" width=45%></a>
 </div>
