@@ -1,4 +1,4 @@
-![Banner](preview.jpg)
+![Banner](banner.jpg)
 # Welcome to my profile!
 ## My name is Kirill and i'm currently working as Game Developer for about 5 years...
 ## My technologies:
