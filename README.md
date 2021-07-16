@@ -31,3 +31,6 @@
 
 <br>
 <img src="https://img.shields.io/badge/Making%20something%20useless%20is%20better%20than%20doing%20nothing%20at%20all!-inactive">
+
+[![Kirill Zhosul GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillzhosul&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
