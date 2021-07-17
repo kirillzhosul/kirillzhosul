@@ -29,8 +29,5 @@
   <a href=mailto:kodengprivate@gmail.com><img src="https://img.shields.io/badge/Mail-blue?logo=gmail"></a>
 </div>
 
-<br>
-<img src="https://img.shields.io/badge/Making%20something%20useless%20is%20better%20than%20doing%20nothing%20at%20all!-inactive">
-
-[![Kirill Zhosul GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillzhosul&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Kirill Zhosul GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillzhosul&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&layout=default&hide=Yacc,CSS&card_width=495&custom_title=Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
