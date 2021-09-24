@@ -8,7 +8,7 @@
 <li>A bit of JavaScript, SQL, C#, HTML, CSS, C++, (Assembler?), Arduino, but i can`t work on them as main languages :cry:, </li>
   <li>As table from GitHub (only from PUBLIC repos, there are some other private repos with other languages) statistics: </li>
   <a href="https://github.com/kirillzhosul?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&theme=dark&layout=default&hide=Yacc,CSS,HTML&card_width=310&custom_title=Used%20Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&theme=dark&layout=default&hide=YaccL&card_width=310&custom_title=Used%20Languages">
     </a>
 </ul>
 <h2>:mag_right:Overall GitHub statistics:</h2>
