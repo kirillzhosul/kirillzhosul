@@ -15,8 +15,8 @@
 
 <h3 align="center">📂Projects📂</h3>
 <p align="center">
-  <i><code>Python</code> <a href="https://github.com/gamemaker-paint-editor">Remote Access Tool</a></i><br>
-  <i><code>GML</code> <a href="https://github.com/python-remote-access">Simple Paint Editor</a></i><br>
+  <i><code>Python</code> <a href="https://github.com/kirillzhosul/python-remote-access">Remote Access Tool</a></i><br>
+  <i><code>GML</code> <a href="https://github.com/kirillzhosul/gamemaker-paint-editor">Simple Paint Editor</a></i><br>
   <br>
   <i><a href="https://github.com/kirillzhosul?tab=repositories">...Find More In My Repositories...</a></i><br>
 </p>
