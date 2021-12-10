@@ -15,8 +15,14 @@
 
 <h3 align="center">📂Projects📂</h3>
 <p align="center">
-  <i><code>Python</code> <a href="https://github.com/kirillzhosul/python-remote-access">Remote Access Tool</a></i><br>
-  <i><code>GML</code> <a href="https://github.com/kirillzhosul/gamemaker-paint-editor">Simple Paint Editor</a></i><br>
+  <code>Python</code><br> 
+  <i><a href="https://github.com/kirillzhosul/python-remote-access">Remote Access Tool</a></i>
+  <br>
+  <code>GML</code><br>
+  <i><a href="https://github.com/kirillzhosul/gamemaker-paint-editor">World Generation / Visualization</a></i><br>
+  <i><a href="https://github.com/kirillzhosul/gamemaker-paint-editor">Simple Paint Editor</a></i>
+  •
+  <i><a href="https://github.com/kirillzhosul/gamemaker-paint-editor">Sorting Visualization</a></i><br>
   <br>
   <i><a href="https://github.com/kirillzhosul?tab=repositories">...Find More In My Repositories...</a></i><br>
 </p>
@@ -37,5 +43,6 @@
   
 <h3 align="center">📧Contacts 📧</h3>
 <p align="center">
-  <a href="mailto: kirill_zhosul@vk.com">kirill_zhosul@vk.com</a><br>
+  <a href="mailto: kirill_zhosul@vk.com">Mail</a> •
+  <a href="https://vk.com/kirillzhosul">VK</a>
 </p>
