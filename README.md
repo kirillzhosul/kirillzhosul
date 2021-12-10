@@ -19,10 +19,10 @@
   <i><a href="https://github.com/kirillzhosul/python-remote-access">Remote Access Tool</a></i>
   <br>
   <code>GML</code><br>
-  <i><a href="https://github.com/kirillzhosul/gamemaker-paint-editor">World Generation / Visualization</a></i><br>
+  <i><a href="https://github.com/kirillzhosul/gamemaker-world-generation">World Generation / Visualization</a></i><br>
   <i><a href="https://github.com/kirillzhosul/gamemaker-paint-editor">Simple Paint Editor</a></i>
   •
-  <i><a href="https://github.com/kirillzhosul/gamemaker-paint-editor">Sorting Visualization</a></i><br>
+  <i><a href="https://github.com/kirillzhosul/gamemaker-sorting-visualization">Sorting Visualization</a></i><br>
   <br>
   <i><a href="https://github.com/kirillzhosul?tab=repositories">...Find More In My Repositories...</a></i><br>
 </p>
