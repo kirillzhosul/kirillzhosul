@@ -3,7 +3,7 @@
   <i>Programmer</i> • <i>Developer</i><br>
   <code>GML</code> • <code>Python</code> • <code>C#</code><br>
 </p>
-  
+
 --- 
 
 <h3 align="center">💬Welcome💬</h3>
@@ -28,15 +28,21 @@
 
 <h3 align="center">📂Projects📂</h3>
 <p align="center">
-  <code>Python</code><br> 
+  <code>Python</code>
+  <br> 
   <i><a href="https://github.com/kirillzhosul/python-remote-access">Remote Access Tool</a></i>
   <br>
-  <code>GML</code><br>
-  <i><a href="https://github.com/kirillzhosul/gamemaker-world-generation">World Generation / Visualization</a></i><br>
+  <code>GML</code>
+  <br>
+  <i><a href="https://github.com/kirillzhosul/gamemaker-world-generation">World Generation / Visualization</a></i>
+  <br>
   <i><a href="https://github.com/kirillzhosul/gamemaker-paint-editor">Simple Paint Editor</a></i>
   •
   <i><a href="https://github.com/kirillzhosul/gamemaker-sorting-visualization">Sorting Visualization</a></i><br>
-  <br>
+  <code>Other</code><br>
+  <i><a href="https://github.com/kirillzhosul/kirillzhosul">This README</a></i> •
+  <i><a href="https://github.com/kirillzhosul/kirillzhosul.github.io">My Page</a></i>
+  <br><br>
   <i><a href="https://github.com/kirillzhosul?tab=repositories">...Find More In My Repositories...</a></i><br>
 </p>
 
@@ -46,5 +52,6 @@
 <h3 align="center">📧Contacts 📧</h3>
 <p align="center">
   <a href="mailto: kirill_zhosul@vk.com">Mail</a> •
-  <a href="https://vk.com/kirillzhosul">VK</a>
+  <a href="https://vk.com/kirillzhosul">VK</a> •
+  <a href="https://kirillzhosul.github.io">Page</a>
 </p>
