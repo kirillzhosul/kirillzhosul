@@ -13,6 +13,19 @@
 
 --- 
 
+<h3 align="center">🏆GitHub Stats🏆</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kirillzhosul&theme=onedark">
+  </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&theme=dark&layout=compact&card_width=610">
+  </a>
+</div>
+
+---
+
 <h3 align="center">📂Projects📂</h3>
 <p align="center">
   <code>Python</code><br> 
@@ -26,18 +39,7 @@
   <br>
   <i><a href="https://github.com/kirillzhosul?tab=repositories">...Find More In My Repositories...</a></i><br>
 </p>
-  
---- 
 
-<h3 align="center">🔎GitHub Statistics🔍</h3>
-<div align="center">
-  <a href="https://github.com/kirillzhosul">
-    <img src="https://github-readme-stats.vercel.app/api?username=kirillzhosul&theme=dark&count_private=true&show_icons=true&include_all_commits=true">
-  </a><br>
-  <a href="https://github.com/kirillzhosul?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&theme=dark&layout=compact&card_width=450">
-  </a>
-</div>
 
 --- 
   
