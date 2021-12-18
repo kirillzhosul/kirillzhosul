@@ -32,6 +32,10 @@
   <br> 
   <i><a href="https://github.com/kirillzhosul/python-remote-access">Remote Access Tool</a></i>
   <br>
+  <code>Web</code>
+  <br> 
+  <i><a href="https://github.com/kirillzhosul/web-casino">Casino Website</a></i>
+  <br>
   <code>GML</code>
   <br>
   <i><a href="https://github.com/kirillzhosul/gamemaker-world-generation">World Generation / Visualization</a></i>
