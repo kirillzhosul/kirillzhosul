@@ -20,7 +20,7 @@
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&theme=dark&layout=compact&card_width=610">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&theme=dark&layout=compact&card_width=610&langs_count=10">
   </a>
 </div>
 
