@@ -11,12 +11,12 @@
 
 <h3 align="center">💬Welcome💬</h3>
 <p align="center">
-  <span>Welcome to my profile readme, I’m was working on a lot of different projects (and with different programming languages / technologies) for all the time (more about 3 years), like Websites, Games, Applications and a lot of other things.</span><br>
+  <span>Welcome to my profile readme, I’m was working on a lot of different projects (and with different programming languages / technologies) for all the time (more about 3 years), like Websites, Games, Applications and other.</span><br>
   <span>
   <code>Python (Flask)</code>, <code>C# (Unity)</code>, <code>GML (GM)</code>, <code>Web (JavaScript (JQuery), HTML (Bootstrap, Jinja), CSS, SQL)</code>
   </span><br>
   <span>
-  I also tried to work with something like <code>C/C++/Assembly/PHP/</code>
+  I also tried to work with something like <code>C/C++/Assembly/PHP</code> and other...
   </span>
 </p>
 
