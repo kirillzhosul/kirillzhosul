@@ -9,19 +9,6 @@
 
 --- 
 
-<h3 align="center">💬Welcome💬</h3>
-<p align="center">
-  <span>Welcome to my profile readme, I was working on a lot of different projects (and with different programming languages / technologies) for all the time (more about 3 years), like Websites, Games, Applications and other.</span><br>
-  <span>
-  <code>Python (Flask)</code>, <code>C# (Unity)</code>, <code>GML (GM)</code>, <code>Web (JavaScript (JQuery), HTML (Bootstrap, Jinja), CSS, SQL)</code>
-  </span><br>
-  <span>
-  I also tried to work with something like <code>C/C++/Assembly/PHP</code> and other...
-  </span>
-</p>
-
----
-
 <h3 align="center">🏆GitHub Stats🏆</h3>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
