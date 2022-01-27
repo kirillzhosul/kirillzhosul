@@ -3,7 +3,7 @@
   <b><i>Programmer</i> • <i>Developer</i></b><br> 
   <code>GML</code> • <code>Python</code> • <code>C#</code><br>
   <a href="https://kirillzhosul.github.io">Website</a> •
-  <a href="mailto: kirill_zhosul@vk.com">Mail</a>
+  <a href="mailto: kirill_zhosul@vk.com">Contact Me</a>
 </h3>
 <hr>
 <img src="img/banner.jpg">
