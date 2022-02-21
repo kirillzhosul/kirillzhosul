@@ -5,6 +5,6 @@
 </h3>
 <h1 align="center">
  
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=kirillzhosul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=kirillzhosul&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </h3>
