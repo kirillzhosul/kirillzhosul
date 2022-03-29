@@ -1,12 +1,10 @@
-<h1 align="center">⚡Kirill Zhosul⚡</h1>
-<h2 align="center"><a href="https://florgon.space">www.florgon.space</a></h2>
-<h3 align="center">
-  <a href="https://kirillzhosul.site">My personal page</a> •
-  <a href="mailto: kirillzhosul@yandex.com">Contact me</a>
-</h3>
-
+<h1 align="center"><a href="https://kirillzhosul.site">⚡Kirill Zhosul⚡</a></h1>
 <div align="center">
   
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=kirillzhosul&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kirillzhosul&include_all_commits=true&count_private=true&show_icons=true" alt="loading" loading="lazy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&langs_count=10&layout=compact&hide=yacc">
+
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=kirillzhosul&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
