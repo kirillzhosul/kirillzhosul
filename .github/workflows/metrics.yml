@@ -20,3 +20,8 @@ jobs:
           config_timezone: Europe/Samara
           plugin_introduction: yes
           plugin_introduction_title: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          base_indepth: yes
+          plugin_base_indepth: yes
+
