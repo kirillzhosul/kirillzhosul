@@ -2,10 +2,8 @@
 
 <details>
   <summary>My GitHub metrics</summary>
-  <a href="https://github.com/kirillzhosul"><img src="/img/github-metrics.svg" alt="loading"><a/>
-</details>
-  
-<details>
-  <summary>My GitHub achievements</summary>
-  <a href="https://github.com/kirillzhosul"><img src="/img/github-metrics-achievements.svg" alt="loading"><a/>
+  <a href="https://github.com/kirillzhosul">
+    <img src="/img/github-metrics.svg" alt="loading" align="left">
+    <img src="/img/github-metrics-achievements.svg" alt="loading" align="right">
+  <a/>
 </details>
