@@ -15,4 +15,4 @@ I am Programmer - Developer. Programming since 2016. I am consider myself as Bac
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&langs_count=10&&theme=dark&layout=compact&hide=Yacc,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=kirillzhosul)
+![](https://www.codewars.com/users/Kirill%20Zhosul/badges/large)
