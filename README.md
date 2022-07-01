@@ -13,4 +13,6 @@ I am Programmer - Developer. Programming since 2016. I am consider myself as Bac
   <a href="https://github.com/kirillzhosul"><img src="/img/github-metrics-achievements.svg" alt="loading"><a/>
 </details>
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhosul&langs_count=10&&theme=dark&layout=compact&hide=Yacc,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=kirillzhosul)
